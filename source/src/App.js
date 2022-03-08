@@ -13,7 +13,6 @@ function App() {
     const fetchData = async () => {
       const data = await fetch('https://api.adviceslip.com/advice');
       const result = await data.json();
-      console.log(result)
       setData(() => {
         return {
           advice: result.slip.advice,

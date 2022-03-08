@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/advice-app/static/css/main.9e89fb32.css",
-    "main.js": "/advice-app/static/js/main.34106c38.js",
+    "main.css": "/advice-app/static/css/main.ad6856c2.css",
+    "main.js": "/advice-app/static/js/main.3b8b1930.js",
     "static/js/328.c58bad33.chunk.js": "/advice-app/static/js/328.c58bad33.chunk.js",
     "index.html": "/advice-app/index.html",
     "static/media/icon-dice.svg": "/advice-app/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
     "static/media/pattern-divider-desktop.svg": "/advice-app/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
-    "main.9e89fb32.css.map": "/advice-app/static/css/main.9e89fb32.css.map",
-    "main.34106c38.js.map": "/advice-app/static/js/main.34106c38.js.map",
+    "main.ad6856c2.css.map": "/advice-app/static/css/main.ad6856c2.css.map",
+    "main.3b8b1930.js.map": "/advice-app/static/js/main.3b8b1930.js.map",
     "328.c58bad33.chunk.js.map": "/advice-app/static/js/328.c58bad33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e89fb32.css",
-    "static/js/main.34106c38.js"
+    "static/css/main.ad6856c2.css",
+    "static/js/main.3b8b1930.js"
   ]
 }

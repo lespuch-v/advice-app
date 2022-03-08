@@ -47,14 +47,23 @@ font-size: 1em;
   align-items: center;
   justify-content: center;
   align-self: center;
+  transition: all 100ms;
 }
 .dice-button:hover{
   box-shadow: hsl(150, 100%, 66%) 0px 7px 29px 0px;
   
 }
+.dice-button:active{
+  
+}
 .dice-image{
   padding: 7px;
   width: 20px;
+  transition: all 100ms;
+
+}
+.dice-image:active{
+  width: 15px;
 }
 @media only screen and (max-width: 475px){
 	/*Small smartphones [325px -> 425px]*/
